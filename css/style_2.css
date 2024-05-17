@@ -1,0 +1,28 @@
+/* h1{
+    background-color: aqua;
+    height:40px;
+    width:120px;
+    
+    border:2px solid red;
+
+}
+p{
+    background-color: aquamarine;
+} */
+body{
+    background-color: black;
+}
+div{
+    height:100px;
+    width: 100px;
+    background-color: pink;
+    border:2px solid black;
+    border-radius: 0%;
+padding:25% 30% 40% 50%;
+margin-bottom: 25px;
+}
+img{
+    width:100px;
+    border:2px solid black;
+    border-radius: 50%;
+}

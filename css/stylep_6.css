@@ -1,0 +1,40 @@
+/* div{
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    background-color: aqua;
+}
+li{
+    list-style-type: none;
+    display: inline;
+} */
+.navbar{
+    background-color:pink;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color:blue;
+}
+li{
+    list-style-type: none;
+}
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.inner{
+    height: 100px;
+    width: 100px;
+    background-color:cadetblue;
+
+}

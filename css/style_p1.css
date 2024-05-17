@@ -1,0 +1,51 @@
+div{
+    background-color: green;
+    color:blue;
+}
+.heading{
+    color: red;
+}
+button{
+    background-color: green;
+}
+.fhead{
+    text-decoration: underline;
+    text-align:center;
+
+}
+#one{
+    text-align:right;
+    background-color: blue;
+    text-decoration:underline;
+    line-height: 23px;
+    text-transform: capitalize;
+}
+a{
+    text-decoration: none;
+}
+#head1{
+    font-weight: 100;
+}
+#head2{
+    font-weight: 100000;
+}
+#head3{
+    font-weight: 1200000;
+}
+#twop
+{
+  background-color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.one1{
+font-size:25px;
+}
+.two2{
+    font-size:20px;
+
+}
+.three3{
+    font-size:20px;
+    line-height: 2px;
+
+}
