@@ -5,10 +5,10 @@ int sum(int a,int b)
     int c=a+b;
     return c;
 }
-int sub(int h,int j)
+int sub(int a,int b)
 {
-int v=h-j;
-return v;
+int c=a-b;
+return c;
 }
 
 
