@@ -20,7 +20,7 @@ int main()
       cout<<sum(m,n);
       cout<<endl;
       cout<<sum(o,p);
-      cout<<endl;
+      cout<<endl;f
       cout<<sub(m,n);
 
 
