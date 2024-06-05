@@ -6,12 +6,12 @@ int search(int arr[],int n, int x)
         {
             if(arr[i]==x)
             {
-                cout<<"search element =";
+                cout<<"search element = ";
                 return i;
                 
             }
          }
-         cout<<"Enter the number=";
+         cout<<"Enter the number= ";
 
 
         return 0;
@@ -19,9 +19,9 @@ int search(int arr[],int n, int x)
 int main()
 {
 int arr[5],n,a;
-cout<<"ENTER THE  value of n =";
+cout<<"ENTER THE size of array =";
 cin>>n;
-cout<<"enter th value of x =";
+cout<<"enter the search element =";
 cin>>a;
 for(int i=0;i<5;i++)
 {
