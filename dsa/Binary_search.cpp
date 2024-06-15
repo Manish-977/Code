@@ -7,7 +7,7 @@ int BinarySearch(int arr[],int n,int key)
     while(start<=end)
     {
         //mid ko find karo
-        mid=start+end/2;
+        mid=start+(end-start)/2;
     
         //arr[mid]==key
         if(arr[mid]==key)
