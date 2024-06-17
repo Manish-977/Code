@@ -1,8 +1,5 @@
-#include <iostream>
-
-
-int main() {
-    int  arr = {1, 2, 3, 4, 5}; // Declare and initialize arr
+#include <iostream>int main() {
+    int  arr = {9, 2, 3, 4, 5}; // Declare and initialize arr
     int end = arr.size() - 1;
     int first = -1;
     int last = -1;
