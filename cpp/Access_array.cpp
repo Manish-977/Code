@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 
-    int arr[3];
+    int arr[6];
 
     // Inserting elements in an array
     arr[0] = 10;
