@@ -8,7 +8,7 @@ int main()
     int arr[7];
 
     // Inserting elements in an array
-    arr[0] = 10;
+    arr[0] = 70;
     arr[1] = 20;
     arr[2] = 30;
     arr[3] = 40;
