@@ -5,9 +5,9 @@ class addressbook
 {
 int phone_no;
 string name;
-char relationship[9];
-char email[9];
-char address[9];
+char relationship[10];
+char email[10];
+char address[10];
 public:
 void input();
 void output();
