@@ -8,7 +8,7 @@ string name;
 char relationship[10];
 char email[10];
 char address[10];
-char id[10];
+
 public:
 void input();
 void output();
@@ -28,8 +28,7 @@ void addressbook::input()
     cin>>email;
     cout<<"enter a address="<<endl;
     cin>>address;
-    cout<<"enter a id="<<endl;
-    cin>>id;
+
 
 
 }
@@ -41,7 +40,7 @@ void addressbook::output()
     cout<<"retationship="<<relationship<<endl;
     cout<<"email="<<email<<endl;
     cout<<"address="<<address<<endl;
-    cout<<"ID="<<id<<endl;
+  
 }
 int main()
 {
