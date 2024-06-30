@@ -35,7 +35,7 @@ void pypart2(int n)
 // Driver Code
 int main()
 {
-	int n = 5;
+	int n = 10;
 
 	// Function Call
 	pypart2(n);
