@@ -1,3 +1,8 @@
+#write a program which takes a list and return a 
+# list with the elements "shifted left by one postion
+#  " so that [1,2,3]yields[2,3,4] in python
+
+
 def shift_left(lst):
     if not lst:  # Check if the list is empty
         return lst

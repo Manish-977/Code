@@ -1,4 +1,7 @@
-# write a program to define a class Employee with the following attributes: Empld, EmpName, Designation and BasiSalary. Derive a class Salary to prepare gross salary and net salary, Assume neccssary attributes ans their values with methods to implement.
+#write a program to define a class Employee with the following 
+#attributes: Empld, EmpName, Designation and BasiSalary. 
+#Derive a class Salary to prepare gross salary and net salary, 
+#Assume neccssary attributes ans their values with methods to implement.
 class Employee:
     def __init__(self, empl_id, emp_name, designation, basic_salary):
         self.empl_id = empl_id
