@@ -1,6 +1,6 @@
 let score =33
 let stringNumber = String(score)
-//console.log(typeof stringNumber)  
+console.log(typeof stringNumber)  
 
 let value =3
 let negValue =-value
