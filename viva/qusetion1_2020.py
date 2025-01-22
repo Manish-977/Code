@@ -1,3 +1,5 @@
+#write a progran in python to find the armastrogn numbers
+
 def is_armstrong_number(num):
     # Convert the number to string to easily iterate over digits
     str_num = str(num)
