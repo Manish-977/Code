@@ -1,4 +1,4 @@
-// primitive
+  // primitive
 
 // 7 types : string,Number,Boolearn,null,undefined,Symbol,BigInt
 const score = 100 
@@ -18,7 +18,7 @@ let myObj ={
     name:"Manish",
     age:22,
 }
-//console.log(myObj )
+console.log(myObj )
 //++++++++++++++++++++++++++++++++++++
 
 
